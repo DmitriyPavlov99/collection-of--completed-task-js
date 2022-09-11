@@ -13,7 +13,7 @@ These are my interesting ideological work tasks on book Javascript.
 # Task Number - 1 = Random Teaser Generator 
 
 
-<p>Need to create Random Teaser Generator</a> on Javascript. My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-1-random-teaser-generator/index.js">Look</p>
+<p>Need to create Random Teaser Generator</a> on Javascript. My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-1-random-teaser-generator/index.js">Look</p></a>
 <img src="https://user-images.githubusercontent.com/104227936/189496491-635cba58-06dc-4d1c-9952-ab6c9147e4fe.png">
 
 # Task Number - 2 = Practice using objects by doing these exercises.
