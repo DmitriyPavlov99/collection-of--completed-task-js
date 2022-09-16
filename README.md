@@ -22,3 +22,27 @@ These are my interesting ideological work tasks on book Javascript.
 My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-2-scoring-points-arr/index.js">Look</a>
 
 <img src="https://user-images.githubusercontent.com/104227936/189496749-2019edc6-43e3-4564-9d81-e2f3b5b0e718.png">
+
+
+# Task Number - 3 = Practice using if..else by doing these exercises.
+
+
+My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-3-if/index.js">Look</a>
+
+<img src="https://user-images.githubusercontent.com/104227936/190697668-4fef804a-05e8-42a9-8379-a4c5e020dee2.png">
+
+
+# Task Number - 4 = Practice using for/while by doing these exercises.
+
+
+My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-4-for/index.js">Look</a>
+
+<img src="https://user-images.githubusercontent.com/104227936/190700970-6ea2ea54-c8e5-48c4-8a77-a649ed5c1e74.png">
+
+
+# Task Number - 5 = Practice using for/while/else/if by doing these exercises.
+
+
+My solution: <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-5-if-else-for">Look</a>
+
+<img src="https://user-images.githubusercontent.com/104227936/190710425-7779d87a-b30a-4d88-aba3-9c2c2086b306.png">
