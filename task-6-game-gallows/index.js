@@ -30,13 +30,13 @@ function start() {
   let counterAttempts = 25;
   while (remainingLetters > 0 && counterAttempts > 0) {
     // Показываем состояние игры
+   
     alert(answerArray.join(' '));
     alert(`У вас осталось ${counterAttempts} попытки`);
     // Запрашиваем вариант ответа
     let guess = prompt(
       'Угадайте букву, или нажмите Отмена для выхода из игры.'
     );
-    letters.innerHTML = guess
     if (guess === null) {
       // Выходим из игрового цикла
       break;
