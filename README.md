@@ -10,7 +10,7 @@ These are my interesting ideological work tasks on book Javascript.
 
 
 
-# Task Number - 1 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-1-random-teaser-generator/index.js">Random Teaser Generator</a> 
+# Task Number - 1 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-1-random-teaser-generator/index.js">Random Teaser Generator.</a> 
 
 # Task Number - 2 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/blob/main/task-2-scoring-points-arr/index.js">Practice using objects by doing these exercises.</a>
 
@@ -21,3 +21,5 @@ These are my interesting ideological work tasks on book Javascript.
 # Task Number - 5 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-5-if-else-for">Practice using for/while/else/if by doing these exercises.</a>
 
 # Task Number - 6 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-6-game-gallows">Practice using for/while/else/if by doing these exercises.</a>
+
+# Task Number - 7 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-7-functions">Practice using functions.</a>
