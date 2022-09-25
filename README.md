@@ -23,3 +23,5 @@ These are my interesting ideological work tasks on book Javascript.
 # Task Number - 6 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-6-game-gallows">Practice using for/while/else/if by doing these exercises.</a>
 
 # Task Number - 7 = <a href="https://github.com/DmitriyPavlov99/collection-of-completed-task-js/tree/main/task-7-functions">Practice using functions.</a>
+
+# Task Number - 8 = <a href="">Practice using functions.</a>
